@@ -1,0 +1,21 @@
+2022-11-20 17:36:56,357   ibmiotf.device.Client      CRITICAL Not authorized: s (d:no0d4e:Ultrasonic-sensor:kt, use-token-auth, 1234567)
+2022-11-20 17:37:25,861   ibmiotf.device.Client      INFO    Connected successfully: d:no0d4e:Ultrasonic-sensor:kt
+2022-11-20 17:38:03,741   ibmiotf.device.Client      INFO    Connected successfully: d:no0d4e:Ultrasonic-sensor:kt
+2022-11-20 17:40:08,920   ibmiotf.device.Client      INFO    Connected successfully: d:no0d4e:Ultrasonic-sensor:kt
+2022-11-20 17:42:30,701   ibmiotf.device.Client      INFO    Connected successfully: d:no0d4e:Ultrasonic-sensor:kt
+2022-11-20 17:44:57,520   ibmiotf.device.Client      INFO    Connected successfully: d:no0d4e:Ultrasonic-sensor:kt
+2022-11-20 17:48:33,700   ibmiotf.device.Client      INFO    Connected successfully: d:no0d4e:Ultrasonic-sensor:kt
+2022-11-20 17:48:55,022   ibmiotf.device.Client      INFO    Connected successfully: d:no0d4e:Ultrasonic-sensor:kt
+2022-11-20 17:49:12,497   ibmiotf.device.Client      INFO    Connected successfully: d:no0d4e:Ultrasonic-sensor:kt
+2022-11-20 21:08:47,736   ibmiotf.device.Client      INFO    Connected successfully: d:no0d4e:Ultrasonic-sensor:kt
+2022-11-20 22:07:51,177   ibmiotf.device.Client      INFO    Connected successfully: d:no0d4e:Ultrasonic-sensor:kt
+2022-11-20 23:10:09,249   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 16
+2022-11-20 23:10:09,251   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 16
+2022-11-20 23:10:11,335   ibmiotf.device.Client      INFO    Connected successfully: d:no0d4e:Ultrasonic-sensor:kt
+2022-11-20 23:59:46,763   ibmiotf.device.Client      INFO    Connected successfully: d:no0d4e:Ultrasonic-sensor:kt
+2022-11-21 00:27:05,932   ibmiotf.device.Client      INFO    Connected successfully: d:no0d4e:Ultrasonic-sensor:kt
+2022-11-21 00:36:06,053   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 16
+2022-11-21 00:36:06,054   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 16
+2022-11-21 00:48:26,282   ibmiotf.device.Client      CRITICAL Failed to connect to IBM Watson IoT Platform: no0d4e.messaging.internetofthings.ibmcloud.com - [Errno 8] nodename nor servname provided, or not known
+2022-11-21 01:01:03,269   ibmiotf.device.Client      INFO    Connected successfully: d:no0d4e:Ultrasonic-sensor:kt
+2022-11-21 01:03:50,885   ibmiotf.device.Client      INFO    Connected successfully: d:no0d4e:Ultrasonic-sensor:kt
